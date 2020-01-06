@@ -1,5 +1,3 @@
 # Spark Project
-
-extract the files of prices (.csv) in a  folder named /data/
-
-Spark Project MSSD ENSAI Hugo BREHIER.ipynb is the script
+A .pdf of the .ipynb script is available. 
+extract the files of prices (.csv) in /github_original/ to a  folder named /data/ to run the .ipynb .
