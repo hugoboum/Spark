@@ -1,4 +1,4 @@
-# Spark Project (HUGO BREHIER) for MSSD ENSAI
+# Spark Project for MSSD ENSAI
 
 A .pdf of the .ipynb script is available altough I recommend reading through the .ipynb .
 
